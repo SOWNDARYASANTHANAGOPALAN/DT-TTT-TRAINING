@@ -1,7 +1,6 @@
 <html>
-  
-  
-<jsp:include page="header.jsp" />  
+   
+<jsp:include page="/WEB-INF/views/header.jsp" />  
   
 
 <b><div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -44,7 +43,7 @@
 
   </b>
   
-<jsp:include page="footer.jsp" />  
+<jsp:include page="/WEB-INF/views/footer.jsp" />  
   
 
 
